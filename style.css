@@ -1,8 +1,22 @@
-p.t{
+p.img{
     text-align: center;
 }
 
-h1.p{
+h1{
+    text-align: center;
+}
+
+p.a{
+    position: relative;
+    left: 780px;
+}
+
+p.input{
+    position: relative;
+    left: 780px;
+}
+
+p.enviar{
     text-align: center;
 }
 
